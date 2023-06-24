@@ -7,8 +7,7 @@ import { DarkThemeToggle, Flowbite } from 'flowbite-react';
 function App() {
   return (
 
-
-    <Flowbite>
+    <Flowbite >
 
       <div className="App" label="Pro"
         labelColor="dark" >
@@ -21,6 +20,6 @@ function App() {
     </Flowbite>
 
   );
-}
+};
 
 export default App;
