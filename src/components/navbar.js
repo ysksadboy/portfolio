@@ -8,12 +8,7 @@ export default function NavbarWithCTAButton() {
             rounded
         >
             <Navbar.Brand href="https://www.linkedin.com/in/andrew-wilkinson-9450b9277/" target="_blank">
-                <img
 
-                    alt=""
-                    className="mr-3 h-6 sm:h-9"
-                    src="/favicon.svg"
-                />
                 <BsEmojiFrownFill />
                 <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
                     Andrew Wilkinson

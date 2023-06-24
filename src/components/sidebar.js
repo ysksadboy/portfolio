@@ -15,6 +15,8 @@ export default function DefaultSidebar() {
             href="https://deluxe-sundae-9d1106.netlify.app/"
             target='_blank'
             icon={HiOutlinePuzzle}
+            label='API'
+            labelColor='purple'
           >
             <p>
               Create Book Title/Cover
@@ -48,7 +50,7 @@ export default function DefaultSidebar() {
             icon={AiOutlineGithub}
           >
             <p>
-              GitHub
+              My GitHub
             </p>
           </Sidebar.Item>
           <Sidebar.Item
@@ -57,7 +59,18 @@ export default function DefaultSidebar() {
             icon={HiArrowSmRight}
           >
             <p>
-              linkedIn
+              My linkedIn
+            </p>
+          </Sidebar.Item>
+          <Sidebar.Item
+            href="https://luxury-narwhal-d3cfc5.netlify.app/"
+            target='_blank'
+            icon={HiArrowSmRight}
+            label='html,js,css'
+            labelColor='purple'
+          >
+            <p>
+              My Original Blog
             </p>
           </Sidebar.Item>
         </Sidebar.ItemGroup>
