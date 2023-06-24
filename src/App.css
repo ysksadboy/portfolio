@@ -1,5 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .App {
+  background-color: rgb(31 41 55);
   text-align: center;
+  color: white;
 }
 
 .App-logo {
@@ -25,14 +31,17 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: purple;
 }
 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+;
