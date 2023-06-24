@@ -2,7 +2,7 @@
 import '../App.css'
 import { Sidebar } from 'flowbite-react';
 import React from 'react';
-import { HiArrowSmRight, HiOutlinePuzzle, HiOutlinePhotograph, HiShoppingBag, HiTable, HiUser, HiOutlineMusicNote } from 'react-icons/hi';
+import { HiArrowSmRight, HiOutlinePuzzle, HiOutlinePhotograph, HiOutlineMusicNote } from 'react-icons/hi';
 import { AiOutlineGithub } from "react-icons/ai";
 
 export default function DefaultSidebar() {

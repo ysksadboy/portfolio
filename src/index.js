@@ -1,9 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
-import '../src/components/sidebar'
-import './components/sidebar';
 import DefaultSidebar from '../src/components/sidebar';
 import NavbarWithCTAButton from './components/navbar';
 import DefaultFooter from './components/footer';
